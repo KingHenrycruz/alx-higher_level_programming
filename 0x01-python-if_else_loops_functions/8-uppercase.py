@@ -1,4 +1,4 @@
-i#!/usr/bin/python3
+#!/usr/bin/python3
 def uppercase(string):
     for i in range(len(string)):
         if ord(string[i]) >= 97 and ord(string[i]) <= 122:
